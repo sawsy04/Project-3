@@ -8,8 +8,8 @@ In this project, we will be developing classification models that can distinguis
 
 ## Overview
 
-1.  Using Reddit's API, we'll be collecting posts from two subreddit - nosleep and AsianBeauty.
-2. Subsequently, we'll use NLP to train the classifier on which subreddit a given post came from.
+1.  Web Scrapping Notebook: Using Reddit's API, we'll be collecting posts from two subreddit - nosleep and AsianBeauty.
+2. Data Cleaning, Preprocessing and Modelling Notebook: Subsequently, we'll use NLP to train the classifier on which subreddit a given post came from.
 
 ## Methodology
 
